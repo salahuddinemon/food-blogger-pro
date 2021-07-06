@@ -12,6 +12,20 @@ h4{
 .Orange-color{
     color: orange;
 }
+.header-img img{
+    width: 100%;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    text-indent: 20px;
+    padding-top: 15px;
+    list-style: none;
+    background-color:orange;
+}
 .half-width{
     width: 50%;
     margin: 70px 50px 50px 50px;
@@ -73,12 +87,6 @@ footer{
     padding-top: 10px;
     padding-bottom: 1%;
 }
-footer h6{
-    color: white;
-    font-weight: 100;
-    padding-bottom: 5%;
-
-}
 .social-links{
     display: flex;
     justify-content: center;
@@ -88,13 +96,9 @@ footer h6{
     text-indent: 10px;
     padding-top: 7px;  
 }
-.wrapper{
-    display: flex;
-    justify-content: center;
-    font-size: x-large;
-    text-indent: 20px;
-    padding-top: 15px;
-    list-style: none;
-    background-color: rgb(224, 204, 172);
-    
+footer h6{
+    color: white;
+    font-weight: 100;
+    padding-bottom: 5%;
+
 }
