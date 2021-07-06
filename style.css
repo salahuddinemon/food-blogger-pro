@@ -70,11 +70,14 @@ footer{
     text-align: center;
     background-color: rgb(3, 11, 34);
     color: gray;
-    padding-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 1%;
 }
 footer h6{
     color: white;
     font-weight: 100;
+    padding-bottom: 5%;
+
 }
 .social-links{
     display: flex;
@@ -85,13 +88,13 @@ footer h6{
     text-indent: 10px;
     padding-top: 7px;  
 }
-.menu-item{
+.wrapper{
     display: flex;
     justify-content: center;
-    font-size: large;
-    text-indent: 10px;
-    height: 40px;
-    padding-top: 7px;
-    border-top: black;
-    border-bottom: black;
+    font-size: x-large;
+    text-indent: 20px;
+    padding-top: 15px;
+    list-style: none;
+    background-color: rgb(224, 204, 172);
+    
 }
