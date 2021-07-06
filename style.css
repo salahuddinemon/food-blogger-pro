@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%; 
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    display: flex;
+    margin: 70px 50px 50px 50px;
+    color: #575757;
+}
+.get-food{
+    text-decoration: none;
+    background-image: linear-gradient(Orange, red);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    border-radius: 50px;
+}
+.contact-color{
+    background-image: linear-gradient(rgb(94, 10, 163), rgb(170, 56, 11));
+}
+.background-img{
+    background-image: url(images/shapes/7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#flexible-container{
+    padding-top: 35px;
+}
+.delicious-rec{
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(3, 11, 34);
+    color: gray;
+    padding-top: 100px;
+}
