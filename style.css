@@ -71,10 +71,27 @@ footer{
     background-color: rgb(3, 11, 34);
     color: gray;
     padding-top: 100px;
-    
 }
 footer h6{
     color: white;
-    
-    
+    font-weight: 100;
+}
+.social-links{
+    display: flex;
+    justify-content: center;
+    background-color: #ffded6;
+    height: 40px;
+    font-size: x-large;
+    text-indent: 10px;
+    padding-top: 7px;  
+}
+.menu-item{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    text-indent: 10px;
+    height: 40px;
+    padding-top: 7px;
+    border-top: black;
+    border-bottom: black;
 }
