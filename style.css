@@ -80,13 +80,6 @@ h4{
     padding-top: 5px;
     padding-right: 30px;   
 }
-footer{
-    text-align: center;
-    background-color: rgb(3, 11, 34);
-    color: gray;
-    padding-top: 10px;
-    padding-bottom: 1%;
-}
 .social-links{
     display: flex;
     justify-content: center;
@@ -96,9 +89,15 @@ footer{
     text-indent: 10px;
     padding-top: 7px;  
 }
+footer{
+    text-align: center;
+    background-color: rgb(3, 11, 34);
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 1%;
+}
 footer h6{
     color: white;
     font-weight: 100;
     padding-bottom: 5%;
-
 }
